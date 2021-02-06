@@ -9,10 +9,10 @@ import (
 定义了函数类型 Hash，采取依赖注入的方式，允许用于替换成自定义的 Hash 函数，
 	也方便测试时替换，默认为 crc32.ChecksumIEEE 算法。
 Map 是一致性哈希算法的主数据结构，包含 4 个成员变量：
-	Hash 函数 hash；
-	虚拟节点倍数 replicas；
-	哈希环 keys；真实节点 key
-	虚拟节点与真实节点的映射表 hashMap，键是虚拟节点的哈希值，值是真实节点的名称。
+	- Hash 函数 hash；
+	- 虚拟节点倍数 replicas；
+	- 哈希环 keys；真实节点 key
+	- 虚拟节点与真实节点的映射表 hashMap，键是虚拟节点的哈希值，值是真实节点的名称。
 构造函数 New() 允许自定义虚拟节点倍数和 Hash 函数
 */
 // Hash maps bytes to uint32
