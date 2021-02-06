@@ -1,8 +1,11 @@
 github.com/ZhaoxingZhang/geeorm v0.0.0-20210122204620-e0dedde867ac h1:lQvZ5wMCJm/2IjAZDvYsUXlXJSNcquiLSEnvIT8lutc=
 github.com/ZhaoxingZhang/geeorm v0.0.0-20210122204620-e0dedde867ac/go.mod h1:Xqx9Swr/fn7CdSRxBCm1JWmsvSenxK7RHfrM7Jb+sxA=
 github.com/ZhaoxingZhang/go-gees v0.0.0-20210206013157-93762cc41e4d h1:3s6OSXWHsPOmfTPkqNXRmtIrbfVIRRE2haBZIov5UlU=
+github.com/ZhaoxingZhang/go-gees v0.0.0-20210206043744-4e867c128871 h1:dlZK7Shn1DiXnWs6UezBRZ+3OfgKxuKroYK48x14cK0=
 github.com/ZhaoxingZhang/go-gees/common v0.0.0-20210206013157-93762cc41e4d h1:vlYL7ZJCM3jfSWIsNpTjwi6hurW4glgqtXhNrO3pnq4=
 github.com/ZhaoxingZhang/go-gees/common v0.0.0-20210206013157-93762cc41e4d/go.mod h1:CQ7ag0eVMMycuFwX7S5DJ2Ei6e8dKgn+vif/j3GXsCs=
+github.com/ZhaoxingZhang/go-gees/common v0.0.0-20210206043744-4e867c128871 h1:nMOH/E5XgL349V6eWWI91SBz+QUQARzNAyF8FX0jqVA=
+github.com/ZhaoxingZhang/go-gees/common v0.0.0-20210206043744-4e867c128871/go.mod h1:CQ7ag0eVMMycuFwX7S5DJ2Ei6e8dKgn+vif/j3GXsCs=
 github.com/gogo/protobuf v1.3.2 h1:Ov1cvc58UF3b5XjBnZv7+opcTcQFZebYjWzi34vdm4Q=
 github.com/gogo/protobuf v1.3.2/go.mod h1:P1XiOD3dCwIKUDQYPy72D8LYyHL2YPYrpS2s69NZV8Q=
 github.com/golang/protobuf v1.4.0-rc.1/go.mod h1:ceaxUfeHdC40wWswd/P6IGgMaK3YpKi5j83Wpe3EHw8=
