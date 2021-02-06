@@ -2,8 +2,8 @@ package geecache
 
 import (
 	"fmt"
-	pb "github.com/ZhaoxingZhang/geecache/geecachepb"
-	"github.com/ZhaoxingZhang/geecache/singleflight"
+	pb "github.com/ZhaoxingZhang/go-gees/geecache/geecachepb"
+	"github.com/ZhaoxingZhang/go-gees/geecache/singleflight"
 	"log"
 	"sync"
 )

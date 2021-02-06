@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/ZhaoxingZhang/geecache"
+	"github.com/ZhaoxingZhang/go-gees/geecache"
 	"log"
 	"net/http"
 )

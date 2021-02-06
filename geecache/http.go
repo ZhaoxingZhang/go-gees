@@ -2,10 +2,10 @@ package geecache
 
 import (
 	"fmt"
-	"github.com/ZhaoxingZhang/geecache/consistenthash"
-	pb "github.com/ZhaoxingZhang/geecache/geecachepb"
+	"github.com/ZhaoxingZhang/go-gees/geecache/consistenthash"
+	pb "github.com/ZhaoxingZhang/go-gees/geecache/geecachepb"
+	"github.com/ZhaoxingZhang/go-gees/geecache/log"
 	"github.com/gogo/protobuf/proto"
-	"github.com/ZhaoxingZhang/geeorm/log"
 	"io/ioutil"
 	"net/http"
 	"net/url"
@@ -13,7 +13,7 @@ import (
 	"sync"
 )
 
-const defaultBasePath = "/geecache/"
+const defaultBasePath = "/_geecache/"
 const defaultReplicas = 3
 
 // HTTPPool

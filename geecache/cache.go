@@ -1,7 +1,7 @@
 package geecache
 
 import (
-	"github.com/ZhaoxingZhang/geecache/lru"
+	"github.com/ZhaoxingZhang/go-gees/geecache/lru"
 	"sync"
 )
 
@@ -62,7 +62,6 @@ type Getter interface {
 // A GetterFunc implements Getter with a function.
 type GetterFunc func(key string) ([]byte, error)
 
-// Get implements Getter interface function
 func (f GetterFunc) Get(key string) ([]byte, error) {
 	return f(key)
 }

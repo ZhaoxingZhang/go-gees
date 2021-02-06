@@ -33,8 +33,8 @@ func New(maxBytes int64, onEvicted func(string, Value)) *Cache {
 }
 
 // Get look ups a key's value
-// 1。 find the node
-// 2. move ie to list end
+// 1。 find the node in map
+// 2.  move ie to list end
 func (c *Cache) Get(key string) (value Value, ok bool) {
 	if ele, ok := c.cache[key]; ok {
 		// 将链表中的节点 ele 移动到队尾（双向链表作为队列，队首队尾是相对的，在这里约定 front 为队尾）
@@ -61,6 +61,7 @@ func (c *Cache) RemoveOldest() {
 }
 
 // Add adds a value to the cache.
+// and evict if overflow
 func (c *Cache) Add(key string, value Value) {
 	if ele, ok := c.cache[key]; ok {
 		c.ll.MoveToFront(ele)

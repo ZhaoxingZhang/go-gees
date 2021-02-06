@@ -1,4 +1,4 @@
-module github.com/ZhaoxingZhang/geecache
+module github.com/ZhaoxingZhang/go-gees/geecache
 
 go 1.15
 
