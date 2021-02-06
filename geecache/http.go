@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/ZhaoxingZhang/go-gees/geecache/consistenthash"
 	pb "github.com/ZhaoxingZhang/go-gees/geecache/geecachepb"
-	"github.com/ZhaoxingZhang/go-gees/geecache/log"
+	"github.com/ZhaoxingZhang/go-gees/common/log"
 	"github.com/gogo/protobuf/proto"
 	"io/ioutil"
 	"net/http"

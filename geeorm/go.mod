@@ -1,4 +1,4 @@
-module github.com/ZhaoxingZhang/geeorm
+module github.com/ZhaoxingZhang/go-gees/geeorm
 
 go 1.15
 
