@@ -1,26 +1,27 @@
 package main
+
 import (
-"database/sql"
-"errors"
-"fmt"
-"log"
-"db"
-"sync"
-"sync/atomic"
-"time"
+	"errors"
+	"fmt"
+	"geeshorten/db"
+	"gorm.io/gorm"
+	"log"
+	"sync"
+	"sync/atomic"
+	"time"
 )
 
 var MyQueue *queue
 
 type Worker struct {
 	Queue  *queue
-	DB     *sql.DB
+	DB     *gorm.DB
 	wg     sync.WaitGroup
 	Closed chan bool
 }
 
 // 构建数据存储实例
-func NewWorker(n int, DB *sql.DB) *Worker {
+func NewWorker(n int, DB *gorm.DB) *Worker {
 	MyQueue = NewMyQueue(n) // 初始缓存队列
 	return &Worker{
 		Queue:  MyQueue,
