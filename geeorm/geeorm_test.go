@@ -2,7 +2,7 @@ package geeorm
 
 import (
 	"errors"
-	"github.com/ZhaoxingZhang/geeorm/session"
+	"github.com/ZhaoxingZhang/go-gees/geeorm/session"
 	_ "github.com/mattn/go-sqlite3"
 	"reflect"
 	"testing"

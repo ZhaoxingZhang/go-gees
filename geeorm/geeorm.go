@@ -3,11 +3,11 @@ package geeorm
 import (
 	"database/sql"
 	"fmt"
-	"github.com/ZhaoxingZhang/geeorm/dialect"
+	"github.com/ZhaoxingZhang/go-gees/geeorm/dialect"
 	"strings"
 
-	"github.com/ZhaoxingZhang/geeorm/log"
-	"github.com/ZhaoxingZhang/geeorm/session"
+	"github.com/ZhaoxingZhang/go-gees/common/log"
+	"github.com/ZhaoxingZhang/go-gees/geeorm/session"
 )
 
 type Engine struct {
