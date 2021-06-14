@@ -2,7 +2,7 @@ package geerpc
 
 import (
 	"context"
-	"github.com/ZhaoxingZhang/geeorm/log"
+	"github.com/ZhaoxingZhang/go-gees/geeorm/log"
 	"net"
 	"os"
 	"runtime"

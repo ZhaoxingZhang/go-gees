@@ -3,7 +3,7 @@ package codec
 import (
 	"bufio"
 	"encoding/gob"
-	"github.com/ZhaoxingZhang/geeorm/log"
+	"github.com/ZhaoxingZhang/go-gees/common/log"
 	"io"
 )
 // https://golang.org/pkg/encoding/gob/#pkg-examples

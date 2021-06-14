@@ -1,3 +1,6 @@
-github.com/ZhaoxingZhang/geeorm v0.0.0-20210122204620-e0dedde867ac h1:lQvZ5wMCJm/2IjAZDvYsUXlXJSNcquiLSEnvIT8lutc=
-github.com/ZhaoxingZhang/geeorm v0.0.0-20210122204620-e0dedde867ac/go.mod h1:Xqx9Swr/fn7CdSRxBCm1JWmsvSenxK7RHfrM7Jb+sxA=
+github.com/ZhaoxingZhang/go-gees v0.0.0-20210419120022-c517631e24d6 h1:7tMaW54/JfI0B3mlpFxkfiSgOPAdXmJnHtM/Ksw8FQM=
+github.com/ZhaoxingZhang/go-gees/common v0.0.0-20210419120022-c517631e24d6 h1:XtZKpkuh7jwnWvdDIs6Y4Lbds8ki6+6t0nAp7XRQEZY=
+github.com/ZhaoxingZhang/go-gees/common v0.0.0-20210419120022-c517631e24d6/go.mod h1:CQ7ag0eVMMycuFwX7S5DJ2Ei6e8dKgn+vif/j3GXsCs=
+github.com/ZhaoxingZhang/go-gees/geeorm v0.0.0-20210122204620-e0dedde867ac h1:lQvZ5wMCJm/2IjAZDvYsUXlXJSNcquiLSEnvIT8lutc=
+github.com/ZhaoxingZhang/go-gees/geeorm v0.0.0-20210122204620-e0dedde867ac/go.mod h1:Xqx9Swr/fn7CdSRxBCm1JWmsvSenxK7RHfrM7Jb+sxA=
 github.com/mattn/go-sqlite3 v1.14.6/go.mod h1:NyWgC/yNuGj7Q9rpYnZvas74GogHl5/Z4A/KQRfk6bU=

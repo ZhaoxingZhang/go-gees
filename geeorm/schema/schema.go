@@ -1,7 +1,7 @@
 package schema
 
 import (
-	"github.com/ZhaoxingZhang/geeorm/dialect"
+	"github.com/ZhaoxingZhang/go-gees/geeorm/dialect"
 	"go/ast"
 	"reflect"
 )

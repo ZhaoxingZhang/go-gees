@@ -2,8 +2,8 @@ package session
 
 import (
 	"fmt"
-	"github.com/ZhaoxingZhang/geeorm/log"
-	"github.com/ZhaoxingZhang/geeorm/schema"
+	"github.com/ZhaoxingZhang/go-gees/geeorm/log"
+	"github.com/ZhaoxingZhang/go-gees/geeorm/schema"
 	"reflect"
 	"strings"
 )

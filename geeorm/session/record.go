@@ -2,7 +2,7 @@ package session
 
 import (
 	"errors"
-	"github.com/ZhaoxingZhang/geeorm/clause"
+	"github.com/ZhaoxingZhang/go-gees/geeorm/clause"
 	"reflect"
 )
 // 用于实现记录增删查改相关的代码。

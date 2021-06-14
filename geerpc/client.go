@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/ZhaoxingZhang/geerpc/codec"
+	"github.com/ZhaoxingZhang/go-gees/geerpc/codec"
 	"io"
 	"log"
 	"net"

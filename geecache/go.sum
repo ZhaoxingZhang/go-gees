@@ -1,5 +1,5 @@
-github.com/ZhaoxingZhang/geeorm v0.0.0-20210122204620-e0dedde867ac h1:lQvZ5wMCJm/2IjAZDvYsUXlXJSNcquiLSEnvIT8lutc=
-github.com/ZhaoxingZhang/geeorm v0.0.0-20210122204620-e0dedde867ac/go.mod h1:Xqx9Swr/fn7CdSRxBCm1JWmsvSenxK7RHfrM7Jb+sxA=
+github.com/ZhaoxingZhang/go-gees/geeorm v0.0.0-20210122204620-e0dedde867ac h1:lQvZ5wMCJm/2IjAZDvYsUXlXJSNcquiLSEnvIT8lutc=
+github.com/ZhaoxingZhang/go-gees/geeorm v0.0.0-20210122204620-e0dedde867ac/go.mod h1:Xqx9Swr/fn7CdSRxBCm1JWmsvSenxK7RHfrM7Jb+sxA=
 github.com/ZhaoxingZhang/go-gees v0.0.0-20210206013157-93762cc41e4d h1:3s6OSXWHsPOmfTPkqNXRmtIrbfVIRRE2haBZIov5UlU=
 github.com/ZhaoxingZhang/go-gees v0.0.0-20210206043744-4e867c128871 h1:dlZK7Shn1DiXnWs6UezBRZ+3OfgKxuKroYK48x14cK0=
 github.com/ZhaoxingZhang/go-gees/common v0.0.0-20210206013157-93762cc41e4d h1:vlYL7ZJCM3jfSWIsNpTjwi6hurW4glgqtXhNrO3pnq4=

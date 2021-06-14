@@ -1,6 +1,6 @@
 package session
 
-import "github.com/ZhaoxingZhang/geeorm/log"
+import "github.com/ZhaoxingZhang/go-gees/geeorm/log"
 
 // 封装了 database/sql，提供 日志打印
 func (s *Session) Begin() (err error) {

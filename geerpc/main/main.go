@@ -3,9 +3,9 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/ZhaoxingZhang/geeorm/log"
-	"github.com/ZhaoxingZhang/geerpc"
-	"github.com/ZhaoxingZhang/geerpc/codec"
+	"github.com/ZhaoxingZhang/go-gees/geeorm/log"
+	"github.com/ZhaoxingZhang/go-gees/geerpc"
+	"github.com/ZhaoxingZhang/go-gees/geerpc/codec"
 	"net"
 	"sync"
 	"time"

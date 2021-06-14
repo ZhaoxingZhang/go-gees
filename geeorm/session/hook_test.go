@@ -1,7 +1,7 @@
 package session
 
 import (
-	"github.com/ZhaoxingZhang/geeorm/log"
+	"github.com/ZhaoxingZhang/go-gees/geeorm/log"
 	"testing"
 )
 // BeforeInsert 将 account.ID 的值增加 1000

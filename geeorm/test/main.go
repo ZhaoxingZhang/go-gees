@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/ZhaoxingZhang/geeorm"
-	_ "github.com/ZhaoxingZhang/geeorm/log"
+	"github.com/ZhaoxingZhang/go-gees/geeorm"
+	_ "github.com/ZhaoxingZhang/go-gees/geeorm/log"
 
 	_ "github.com/mattn/go-sqlite3"
 )
