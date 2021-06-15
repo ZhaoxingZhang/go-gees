@@ -6,7 +6,7 @@ import (
 	"github.com/ZhaoxingZhang/go-gees/geeorm/dialect"
 	"strings"
 
-	"github.com/ZhaoxingZhang/go-gees/common/log"
+	"github.com/ZhaoxingZhang/go-gees/geecommon/log"
 	"github.com/ZhaoxingZhang/go-gees/geeorm/session"
 )
 

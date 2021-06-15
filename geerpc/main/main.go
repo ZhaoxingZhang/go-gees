@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/ZhaoxingZhang/go-gees/geeorm/log"
+	"github.com/ZhaoxingZhang/go-gees/geecommon/log"
 	"github.com/ZhaoxingZhang/go-gees/geerpc"
 	"github.com/ZhaoxingZhang/go-gees/geerpc/codec"
 	"net"

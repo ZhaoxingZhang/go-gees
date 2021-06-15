@@ -1,10 +1,4 @@
-github.com/ZhaoxingZhang/go-gees v0.0.0-20210206054352-92e42e709a0e h1:Fqn1QRK+jAS3+v2sMKuefPiWculbyoRcSqyThKcNfkU=
-github.com/ZhaoxingZhang/go-gees v0.0.0-20210419120022-c517631e24d6 h1:7tMaW54/JfI0B3mlpFxkfiSgOPAdXmJnHtM/Ksw8FQM=
-github.com/ZhaoxingZhang/go-gees/common v0.0.0-20210206054352-92e42e709a0e h1:YmyAMma92vQTBZ884sEoG8ibdOyMpbrUnoWR1hJ7Y9Y=
-github.com/ZhaoxingZhang/go-gees/common v0.0.0-20210206054352-92e42e709a0e/go.mod h1:CQ7ag0eVMMycuFwX7S5DJ2Ei6e8dKgn+vif/j3GXsCs=
-github.com/ZhaoxingZhang/go-gees/common v0.0.0-20210419120022-c517631e24d6 h1:XtZKpkuh7jwnWvdDIs6Y4Lbds8ki6+6t0nAp7XRQEZY=
-github.com/ZhaoxingZhang/go-gees/common v0.0.0-20210419120022-c517631e24d6/go.mod h1:CQ7ag0eVMMycuFwX7S5DJ2Ei6e8dKgn+vif/j3GXsCs=
-github.com/ZhaoxingZhang/go-gees/geeorm v0.0.0-20210122204620-e0dedde867ac h1:lQvZ5wMCJm/2IjAZDvYsUXlXJSNcquiLSEnvIT8lutc=
-github.com/ZhaoxingZhang/go-gees/geeorm v0.0.0-20210122204620-e0dedde867ac/go.mod h1:Xqx9Swr/fn7CdSRxBCm1JWmsvSenxK7RHfrM7Jb+sxA=
-github.com/mattn/go-sqlite3 v1.14.6 h1:dNPt6NO46WmLVt2DLNpwczCmdV5boIZ6g/tlDrlRUbg=
-github.com/mattn/go-sqlite3 v1.14.6/go.mod h1:NyWgC/yNuGj7Q9rpYnZvas74GogHl5/Z4A/KQRfk6bU=
+github.com/ZhaoxingZhang/go-gees/geecommon v0.0.0-20210614051042-9162f2456015 h1:Pc8oY9qwyG95+3ImKfGJUte+o2Ek6Uauj5kuP13Bv8Q=
+github.com/ZhaoxingZhang/go-gees/geecommon v0.0.0-20210614051042-9162f2456015/go.mod h1:NjMGS8swauWcaaAhOj5XsAE1Tr7WqnoAMBs4cR4GO3w=
+github.com/mattn/go-sqlite3 v1.14.7 h1:fxWBnXkxfM6sRiuH3bqJ4CfzZojMOLVc0UTsTglEghA=
+github.com/mattn/go-sqlite3 v1.14.7/go.mod h1:NyWgC/yNuGj7Q9rpYnZvas74GogHl5/Z4A/KQRfk6bU=

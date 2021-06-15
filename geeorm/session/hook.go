@@ -1,7 +1,7 @@
 package session
 
 import (
-	"github.com/ZhaoxingZhang/go-gees/geeorm/log"
+	"github.com/ZhaoxingZhang/go-gees/geecommon/log"
 	"reflect"
 )
 

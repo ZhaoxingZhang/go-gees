@@ -11,7 +11,7 @@ import (
 	lib "github.com/ZhaoxingZhang/go-gees/geecrawler/examples/finder/internal"
 	"github.com/ZhaoxingZhang/go-gees/geecrawler/examples/finder/monitor"
 	sched "github.com/ZhaoxingZhang/go-gees/geecrawler/scheduler"
-	"github.com/ZhaoxingZhang/go-gees/common/log"
+	"github.com/ZhaoxingZhang/go-gees/geecommon/log"
 )
 
 // 命令参数。

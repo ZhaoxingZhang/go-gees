@@ -2,7 +2,7 @@ package session
 
 import (
 	"fmt"
-	"github.com/ZhaoxingZhang/go-gees/geeorm/log"
+	"github.com/ZhaoxingZhang/go-gees/geecommon/log"
 	"github.com/ZhaoxingZhang/go-gees/geeorm/schema"
 	"reflect"
 	"strings"

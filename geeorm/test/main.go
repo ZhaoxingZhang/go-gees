@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/ZhaoxingZhang/go-gees/geeorm"
-	_ "github.com/ZhaoxingZhang/go-gees/geeorm/log"
+	_ "github.com/ZhaoxingZhang/go-gees/geecommon/log"
 
 	_ "github.com/mattn/go-sqlite3"
 )
